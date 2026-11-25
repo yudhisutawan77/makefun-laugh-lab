@@ -1,8 +1,8 @@
 # One-Liner Laugh Lab
 
-![One-Liner Laugh Lab](https://make.fun/badge/u-suroso-69-one-liner-laugh-lab-6ccf3aae.svg)
-![Rank](https://make.fun/badge/u-suroso-69-one-liner-laugh-lab-6ccf3aae/yudhisutawan77/makefun-laugh-lab/rank.svg)
-![Reward](https://make.fun/badge/u-suroso-69-one-liner-laugh-lab-6ccf3aae/yudhisutawan77/makefun-laugh-lab/reward.svg)
+[![One-Liner Laugh Lab](https://make.fun/badge/u-suroso-69-one-liner-laugh-lab-6ccf3aae.svg)](https://make.fun/bounty/u-suroso-69-one-liner-laugh-lab-6ccf3aae)
+[![Rank](https://make.fun/badge/u-suroso-69-one-liner-laugh-lab-6ccf3aae/yudhisutawan77/makefun-laugh-lab/rank.svg)](https://make.fun/bounty/u-suroso-69-one-liner-laugh-lab-6ccf3aae)
+[![Reward](https://make.fun/badge/u-suroso-69-one-liner-laugh-lab-6ccf3aae/yudhisutawan77/makefun-laugh-lab/reward.svg)](https://make.fun/bounty/u-suroso-69-one-liner-laugh-lab-6ccf3aae)
 
 A single funny line answering the prompt — the excuse a robot vacuum
 gives after eating a sock — entered in the
